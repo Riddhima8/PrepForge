@@ -1,0 +1,11 @@
+/target/
+.idea/
+*.iml
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+application.properties
