@@ -8,4 +8,4 @@
 Thumbs.db
 
 # Secrets
-application.properties
+#application.properties
